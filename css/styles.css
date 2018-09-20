@@ -1,0 +1,86 @@
+.Head {
+    background-color: orange;
+    height: 300px;
+    width: 1900px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.div1 {
+    height: 70%;
+    width: 10%;
+    background-color: blue;
+}
+.div2 {
+    height: 250px;
+    width: 1400px;
+    background-color: rgb(30, 180, 180);
+}
+.mid {
+    height:200px;
+    width: 1000px;
+    background-color: orange;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.second {
+    height: 300px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+    background-color: rgb(36, 27, 27);
+    
+}
+.div3 {
+    height: 80%;
+    width: 40%;
+    background-color:blue;
+    justify-content: space-around; 
+    align-items: center;
+}
+.div3-1 {
+    background-color:blue;
+    width: 80%;
+    height: 30%;
+}
+.div3-2 {
+    background-color:blue;
+    width: 80%;
+    height: 30%;
+}
+.div4 {
+    height: 80%;
+    width: 23%;
+    background-color:blue;
+}
+.div5 {
+    height: 80%;
+    width: 23%;
+    background-color:blue;
+}
+.bottom {
+    background-color:rgb(42, 141, 199);
+    height: 100px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+}
+.div6 {
+    height: 70%;
+    width: 30%;
+    background-color: rgb(235, 80, 80);
+}
+.div7 {
+    height: 70%;
+    width: 30%;
+    background-color: rgb(235, 80, 80);
+}
+.div8 {
+    height: 70%;
+    width: 30%;
+    background-color: rgb(235, 80, 80);
+}
